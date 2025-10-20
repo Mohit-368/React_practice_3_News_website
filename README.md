@@ -28,6 +28,7 @@ cd react-news-media
 >>Install dependencies
 
 npm install
+<pre> ```bash # Install dependencies npm install # Run the app npm run dev ``` </pre>
 
 >>Get your API key
 Visit https://newsapi.org/
